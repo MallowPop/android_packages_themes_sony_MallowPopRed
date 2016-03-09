@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties xmlns:meta="com.sonymobile.runtimeskinning.themecreator.project.meta" xmlns:serialized="com.sonymobile.runtimeskinning.themecreator.project.serialized" version="1">
+    <resourceValues>
+        <qualifier value="laf1-xxhdpi">
+            <resource id="@com.sonymobile.runtimeskinning.core:drawable/image_wallpaper">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.sonymobile.runtimeskinning.core/res/drawable-laf1-xxhdpi/image_wallpaper.png"/>
+            </resource>
+            <resource id="@com.sonymobile.runtimeskinning.core:drawable/lockscreen_background">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.sonymobile.runtimeskinning.core/res/drawable-laf1-xxhdpi/lockscreen_background.png"/>
+            </resource>
+            <resource id="@skin:drawable/theme_icon">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/skin/res/drawable-laf1-xxhdpi/theme_icon.png"/>
+            </resource>
+        </qualifier>
+        <qualifier value="laf2-xxhdpi">
+            <resource id="@com.android.systemui:drawable/somc_status_bar_background_translucent">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#00888888"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_status_bar_background_light">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_status_bar_background_dark">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_status_bar_background_immersive">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#00010101"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_top_bg_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_top_bg_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_middle_bg_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_middle_bg_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_bottom_bg_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_bottom_bg_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_cab_top_bg_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_cab_top_bg_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_tab_unselected_focused_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_tab_unselected_focused_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_tab_unselected_pressed_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_tab_unselected_pressed_light.png"/>
+            </resource>
+            <resource id="@android:color/somc_color_tab_unselected_light">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD91E1E"/>
+            </resource>
+            <resource id="@android:drawable/somc_tab_selected_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_tab_selected_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_tab_selected_pressed_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_tab_selected_pressed_light.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_top_bg_dark">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_top_bg_dark.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_middle_bg_dark">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_middle_bg_dark.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_actionbar_bottom_bg_dark">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_actionbar_bottom_bg_dark.png"/>
+            </resource>
+            <resource id="@android:drawable/somc_bg_light">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFEEEEEE"/>
+            </resource>
+            <resource id="@android:drawable/somc_details_panel_bg_light">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/android/res/drawable-laf2-xxhdpi/somc_details_panel_bg_light.png"/>
+            </resource>
+            <resource id="@android:color/somc_color_background_light">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFEEEEEE"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_light">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_dark">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_immersive">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#00010101"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_light_land">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_dark_land">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#FFD32F2F"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_background_immersive_land">
+                <value meta:resourceType="color" meta:resourceVersion="1" serialized:color="#00010101"/>
+            </resource>
+            <resource id="@com.android.systemui:bool/somc_enableKeyButtonGlow">
+                <value meta:resourceType="boolean" meta:resourceVersion="1" serialized:boolean="true"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_back_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_back_btn.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_home_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_home_btn.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_recent_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_recent_btn.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_back_ime_btn">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_back_ime_btn.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_back_btn_land">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_back_btn_land.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_home_btn_land">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_home_btn_land.png"/>
+            </resource>
+            <resource id="@com.android.systemui:drawable/somc_navbar_recent_btn_land">
+                <value meta:resourceType="fileImage" meta:resourceVersion="1" serialized:path="skins/com.android.systemui/res/drawable-laf2-xxhdpi/somc_navbar_recent_btn_land.png"/>
+            </resource>
+        </qualifier>
+    </resourceValues>
+</properties>

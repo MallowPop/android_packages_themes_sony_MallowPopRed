@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties version="1">
+    <projectProperties>
+        <versionCode value="4"/>
+        <package value="com.pacme.mallowpop.red"/>
+        <name value="MallowPop Red"/>
+        <versionName value="1.0.6.A.03.MallowPop"/>
+    </projectProperties>
+</properties>
